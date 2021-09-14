@@ -1,2 +1,5 @@
 # github
 for training
+
+
+##notes
