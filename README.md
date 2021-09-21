@@ -1,5 +1,0 @@
-# github
-for training
-
-
-##notes
